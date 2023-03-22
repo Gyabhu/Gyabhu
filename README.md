@@ -5,7 +5,7 @@
 - 📫 How to reach me? I'm Active on my Facebook and Instagram, Please feel free to DM me. You can just search my name, I'll make sure to appear XD!
 
 
-![Gyabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyabhu&show_icons=true&theme=gruvbox)
+![Gyabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyabhu)
 <!---
 Gyabhu/Gyabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
